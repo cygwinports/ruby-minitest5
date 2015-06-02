@@ -1,0 +1,10 @@
+ORIG_PN="minitest"
+inherit rubygem
+
+NAME="ruby-minitest5"
+VERSION=5.6.1
+RELEASE=1
+CATEGORY="Ruby"
+SUMMARY="Ruby testing framework, version 5.x"
+DESCRIPTION="minitest provides a complete suite of testing facilities
+supporting TDD, BDD, mocking, and benchmarking."
